@@ -1,0 +1,4 @@
+INFO:__main__:Simple update on normal execution, e.g. "Processing record 10 of 100"
+WARNING:__main__:Youve seen these in sklearn, warning about methods being deprecated
+ERROR:__main__:Logs an error message
+CRITICAL:__main__:Well this is an issue
